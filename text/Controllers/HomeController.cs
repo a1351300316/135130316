@@ -48,5 +48,15 @@ namespace text.Controllers
 
             return View();
         }
+        public ActionResult Add()
+        {
+            return View();
+        }
+        public ActionResult Save(string title,string content)
+        {
+            ViewBag.Title = title;
+            ViewBag.Content = content;
+            return View();
+        }
     }
 }

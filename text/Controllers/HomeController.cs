@@ -58,5 +58,9 @@ namespace text.Controllers
             ViewBag.Content = content;
             return View();
         }
+        public ActionResult Welcome()
+        {
+            return View();
+        }
     }
 }

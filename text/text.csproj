@@ -247,6 +247,7 @@
     <Content Include="Views\Blog\Show.cshtml" />
     <Content Include="Views\Blog\Edit.cshtml" />
     <Content Include="Views\Home\Welcome.cshtml" />
+    <Content Include="Views\Home\List.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

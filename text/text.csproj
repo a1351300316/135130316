@@ -251,6 +251,7 @@
     <Content Include="Views\Home\Welcome.cshtml" />
     <Content Include="Views\Home\List.cshtml" />
     <Content Include="Views\CookieDemo\Index.cshtml" />
+    <Content Include="Views\CookieDemo\Login.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
